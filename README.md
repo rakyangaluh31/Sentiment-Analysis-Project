@@ -1,2 +1,4 @@
 # Sentiment-Analysis-Project
 Sentimen Analysis Project is my first DA project for the purpose of my undergraduate thesis. The process includes data mining (raw tweets from twitter), preprocessing, and sentiment analysis using VADER. Since this is my very first DA project, the codes might be inefficient even though they have worked at some point. I would be more than happy if you, readers, could give advice on how to make a betterment for this project. Have a nice day ! 
+
+My undergraduate thesis topic is about sales forecasting with a study case of Avanza car in Indonesia using tweets as the independent variable (variable X). However, this project is rather discussing about how I do sentiment analysis on the tweets before the insight is used for the next step of forecasting. The tweets I was using dated from 2015 - 2019.
